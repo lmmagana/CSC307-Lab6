@@ -1,4 +1,8 @@
-import java.util.ArrayList;
+/*
+CSC 307 - Lab 4
+Name: Luis Magana
+Partner: Logan Schwarz
+*/
 
 public class Classroom {
 
